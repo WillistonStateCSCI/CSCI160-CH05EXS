@@ -20,5 +20,6 @@ public class PassingGrade
       message = "You failed ";
 
     System.out.println( message ) ;
+    scan.close();
   }
 }

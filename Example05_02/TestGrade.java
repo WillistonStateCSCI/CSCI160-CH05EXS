@@ -20,5 +20,7 @@ public class TestGrade
 
     System.out.println( "Your final test grade is "
                         + grade ) ;
+
+    scan.close();
   }
 }
