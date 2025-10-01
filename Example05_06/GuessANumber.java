@@ -39,5 +39,6 @@ public class GuessANumber
            System.out.println( "Better luck next time." );
        }
     }
+    scan.close();
   }
 }
